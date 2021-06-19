@@ -1,11 +1,11 @@
 
-  # **d**
+  # **fgsfg**
 
-  [![License BSD 3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-brightgreen)](https://opensource.org/licenses/BSD-3-Clause)
+  <img src="https://img.shields.io/badge/mybadge-BSD 3-Clause,Apache License 2.0,Mozilla Public License 2.0-blue" alt="badge with license name"/>
 
   ## Description
 
-  ## d
+  ## fdgfg
 
   ## Table of Contents        
    * [Installation](#Installation)
@@ -19,28 +19,28 @@
 
    ## Usage
 
-    d       
+    dfgsdfg       
 
    ## Credits
 
-    d       
+    dfgdgf       
 
    ## License
 
-    BSD 3-Clause       
+    BSD 3-Clause,Apache License 2.0,Mozilla Public License 2.0       
 
    ## Badges
 
-    d       
+    <img src="https://img.shields.io/badge/mybadge-BSD 3-Clause,Apache License 2.0,Mozilla Public License 2.0-blue" alt="badge with license name"/>      
  
    ## Features
 
-    d       
+    dfgdfgdf       
 
    ## Contributing
 
-    d       
+    dfgdfg       
 
    ## Test
 
-    d               
+    dfgdfgdfg               
