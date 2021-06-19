@@ -1,7 +1,7 @@
 
   # **d**
 
-  
+  [![License BSD 3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-brightgreen)](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Description
 
@@ -27,7 +27,7 @@
 
    ## License
 
-    BSD 3-Clause,EPL-2.0,Apache License 2.0       
+    BSD 3-Clause       
 
    ## Badges
 
