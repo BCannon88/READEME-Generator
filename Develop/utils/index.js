@@ -34,7 +34,7 @@ const questions = [
         type: "checkbox",
         name: "license",
         message: "Please choose the project license",
-        choices: ['Babel', '.NET Core', 'Rails', 'MIT']
+        choices: ['BSD 3-Clause', 'EPL-2.0', 'Apache License 2.0', 'MIT', 'Mozilla Public License 2.0']
     },
     {
         type: "input",

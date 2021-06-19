@@ -1,11 +1,11 @@
 
-  # **g**
+  # **d**
 
-  ![badge](https://img.shields.io/badge/license-.NET Core-brightgreen)<br />
+  
 
   ## Description
 
-  ## g
+  ## d
 
   ## Table of Contents        
    * [Installation](#Installation)
@@ -19,28 +19,28 @@
 
    ## Usage
 
-    g       
+    d       
 
    ## Credits
 
-    g       
+    d       
 
    ## License
 
-    .NET Core       
+    BSD 3-Clause,EPL-2.0,Apache License 2.0       
 
    ## Badges
 
-    g       
+    d       
  
    ## Features
 
-    g       
+    d       
 
    ## Contributing
 
-    g       
+    d       
 
    ## Test
 
-    g               
+    d               
