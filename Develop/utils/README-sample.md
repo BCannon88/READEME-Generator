@@ -1,11 +1,11 @@
 
-  # **fgsfg**
+  # **README Generator**
 
-  <img src="https://img.shields.io/badge/mybadge-BSD 3-Clause,Apache License 2.0,Mozilla Public License 2.0-blue" alt="badge with license name"/>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-red)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  ## fdgfg
+  ## A Quality README Generator for you to provide detailed information on your projects.
 
   ## Table of Contents        
    * [Installation](#Installation)
@@ -19,28 +19,28 @@
 
    ## Usage
 
-    dfgsdfg       
+    With the tools to create detailed README files, collaborators can work together on projects and seek assistance far better than without.        
 
    ## Credits
 
-    dfgdgf       
+           
 
    ## License
 
-    BSD 3-Clause,Apache License 2.0,Mozilla Public License 2.0       
+    MIT       
 
    ## Badges
 
-    <img src="https://img.shields.io/badge/mybadge-BSD 3-Clause,Apache License 2.0,Mozilla Public License 2.0-blue" alt="badge with license name"/>      
+    https://img.shields.io/badge/License-LGPL--3.0-yellowgreen       
  
    ## Features
 
-    dfgdfgdf       
+           
 
    ## Contributing
 
-    dfgdfg       
+           
 
    ## Test
 
-    dfgdfgdfg               
+                   
