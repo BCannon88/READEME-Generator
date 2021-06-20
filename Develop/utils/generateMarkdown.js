@@ -39,7 +39,7 @@ const generateMarkdown =(data) => {
    * [Credits](#Credits)       
    * [License](#License)   
        
-   ## Instillation
+   ## Installation
 
     ${data.installation}       
 

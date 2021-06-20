@@ -5,7 +5,7 @@
 
   ## Description
 
-  ## A quality README Generator for projects hosted on Github
+  ## An application to provide quality README.md Files for projects hosted on github.
 
   ## Table of Contents        
    * [Installation](#Installation)
@@ -13,17 +13,17 @@
    * [Credits](#Credits)       
    * [License](#License)   
        
-   ## Instillation
+   ## Installation
 
-    undefined       
+    This application will require you to install npm install and npm inquirer.       
 
    ## Usage
 
-    This application can be used to produce quality README files for other developers to use, so collaborating on projects becomes easier.       
+    This application can be used to create quality and detailed README files, that can make collaborating with other developers easier.       
 
    ## Credits
 
-    No contributors at this time       
+    There are no contributors at the moments       
 
    ## License
 
@@ -35,15 +35,15 @@
  
    ## Features
 
-           
+    No features at the moments       
 
    ## Contributing
 
-    No contributions are accepted at this time       
+    We are not accepting contributors at the moment       
 
    ## Test
 
-        
+    no test at the moment    
     
    ## Questions
-    BCannon88 https://github.com/BCannon88/READEME-Generator
+    BCannon88 https://github.com/BCannon88
