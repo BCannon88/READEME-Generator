@@ -5,7 +5,7 @@ const renderLicenseBadge = licenseChoices => {
   if(!licenseChoices){
     return ''
   }
-  return `<img src="https://img.shields.io/badge/license-${licenseChoices}-green" alt="badge with license name"/>`
+  return `<img src="https://img.shields.io/badge/mybadge-${licenseChoices}-blue" alt="badge with license name"/>`
 }
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -53,7 +53,7 @@ const generateMarkdown =(data) => {
 
    ## License
 
-    This application is covered under ${renderLicenseBadge(data.license)}       
+    This application is covered under ${data.license}       
 
    ## Badges
 

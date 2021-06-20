@@ -1,11 +1,11 @@
 
-  # **dfsd**
+  # **adfadf**
 
-  <img src="https://img.shields.io/badge/license-BSD 3-Clause,Apache License 2.0,MIT-green" alt="badge with license name"/>
+  <img src="https://img.shields.io/badge/mybadge-BSD 3-Clause,MIT-blue" alt="badge with license name"/>
 
   ## Description
 
-  ## sdfsd
+  ## asdfadf
 
   ## Table of Contents        
    * [Installation](#Installation)
@@ -19,19 +19,19 @@
 
    ## Usage
 
-    sdfsdf       
+    adsfadf       
 
    ## Credits
 
-    sdfsdf       
+    asdfadf       
 
    ## License
 
-    This application is covered under <img src="https://img.shields.io/badge/license-BSD 3-Clause,Apache License 2.0,MIT-green" alt="badge with license name"/>       
+    This application is covered under BSD 3-Clause,MIT       
 
    ## Badges
 
-   <img src="https://img.shields.io/badge/license-BSD 3-Clause,Apache License 2.0,MIT-green" alt="badge with license name"/>      
+   <img src="https://img.shields.io/badge/mybadge-BSD 3-Clause,MIT-blue" alt="badge with license name"/>      
  
    ## Features
 
@@ -43,7 +43,7 @@
 
    ## Test
 
-    adfadsf    
+    adfadf    
     
    ## Questions
-    adfadf
+    adsfadf
