@@ -1,26 +1,35 @@
-const licenseBadges = require("./badges&license");
+//const licenseBadges = require("./badges&license");
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-// function renderLicenseBadge(license) {
-  
-// }
+const renderLicenseBadge = licenseChoices => {
 
+  if(!licenseChoices){
+    return ''
+  }
+  return `<img src="https://img.shields.io/badge/mybadge-${licenseChoices}-blue" alt="badge with license name"/>`
+}
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-// function renderLicenseLink(license) { }
-
+const renderLicenseLink = licenseLink => {
+  if(!licenseLink){
+    return ''
+  }
+}
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
-// function renderLicenseSection(license) { }
-
+const renderLicenseSection = license => {
+  if(!license){
+    return ''
+  }
+}
 // TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
+const generateMarkdown =(data) => {
 
-  data.licenseBadge = licenseBadges[data.license];
+  //data.licenseBadge = licenseBadges[data.license];
   return `
   # **${data.title}**
 
-  ${data.licenseBadge}
+  ${renderLicenseBadge(data.license)}
 
   ## Description
 
@@ -46,11 +55,11 @@ function generateMarkdown(data) {
 
    ## License
 
-    ${data.license}       
+    This application is covered under ${data.license}       
 
    ## Badges
 
-    ${data.badges}       
+   ${renderLicenseBadge(data.license)}      
  
    ## Features
 
@@ -62,7 +71,10 @@ function generateMarkdown(data) {
 
    ## Test
 
-    ${data.test}               
+    ${data.test}    
+    
+   ## Questions
+    ${data.questions}
 `;
 }
 
