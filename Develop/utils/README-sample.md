@@ -1,11 +1,11 @@
 
-  # **adfadf**
+  # **README Generator**
 
-  <img src="https://img.shields.io/badge/mybadge-BSD 3-Clause,MIT-blue" alt="badge with license name"/>
+  <img src="https://img.shields.io/badge/mybadge-MIT-blue" alt="badge with license name"/>
 
   ## Description
 
-  ## asdfadf
+  ## A quality README Generator for projects hosted on Github
 
   ## Table of Contents        
    * [Installation](#Installation)
@@ -19,31 +19,31 @@
 
    ## Usage
 
-    adsfadf       
+    This application can be used to produce quality README files for other developers to use, so collaborating on projects becomes easier.       
 
    ## Credits
 
-    asdfadf       
+    No contributors at this time       
 
    ## License
 
-    This application is covered under BSD 3-Clause,MIT       
+    This application is covered under MIT       
 
    ## Badges
 
-   <img src="https://img.shields.io/badge/mybadge-BSD 3-Clause,MIT-blue" alt="badge with license name"/>      
+   <img src="https://img.shields.io/badge/mybadge-MIT-blue" alt="badge with license name"/>      
  
    ## Features
 
-    adfadf       
+           
 
    ## Contributing
 
-    adfadf       
+    No contributions are accepted at this time       
 
    ## Test
 
-    adfadf    
+        
     
    ## Questions
-    adsfadf
+    BCannon88 https://github.com/BCannon88/READEME-Generator
