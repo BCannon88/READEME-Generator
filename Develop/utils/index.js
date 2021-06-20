@@ -8,7 +8,15 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "What is the name of your project?"
+        message: "What is the name of your project?",
+        validate: projectTitleInput => {
+            if (projectTitleInput){
+                return true;
+            } else {
+                console.log('Please enter your project title.');
+                return false;
+            }
+        }
     },
     {
         type: "input",
@@ -34,7 +42,15 @@ const questions = [
         type: "checkbox",
         name: "license",
         message: "Please choose the project license",
-        choices: ['BSD 3-Clause', 'EPL-2.0', 'Apache License 2.0', 'MIT', 'Mozilla Public License 2.0']
+        choices: ['BSD 3-Clause', 'EPL-2.0', 'Apache License 2.0', 'MIT', 'Mozilla Public License 2.0'],
+        validate: projectLicense => {
+            if (projectLicense){
+                return true;
+            } else {
+                console.log('Please enter your project license.');
+                return false;
+            }
+        }
     },
     {
         type: "input",
@@ -49,7 +65,7 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "Please provide information on all contributors"
+        message: "Please provide information for contributors"
     },
     {
         type: "input",
@@ -59,7 +75,15 @@ const questions = [
     {
         type: "input",
         name: "questions",
-        message: "please provide your GIThub username and link to your Github profile"
+        message: "please provide your GIThub username and link to your Github profile",
+        validate: githubUsernameLink => {
+            if (githubUsernameLink){
+                return true;
+            } else {
+                console.log('Please enter your Github username and profile link.');
+                return false;
+            }
+        }
     }
   
 ];
